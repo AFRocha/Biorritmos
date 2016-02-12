@@ -1,7 +1,5 @@
 /**
- * Segundo trabalho de Prog1 
- * Autor:
- * Andre Rocha   42189
+ * Autor: AndreFRocha
  */
 
 #include <stdio.h>
